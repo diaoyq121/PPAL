@@ -209,11 +209,11 @@ The framework provides comprehensive visualization tools for model interpretabil
 If you find this work helpful, please cite our paper:
 
 ```bibtex
-@article{diao2024ppal,
+@article{diao2025ppal,
   title={Prior-guided Prototype Aggregation Learning for Alzheimer's Disease Diagnosis},
   author={Diao, Yueqin and Fang, Huihui and Yu, Hanyi and Wang, Yuning and Tao, Yaling and Huang, Ziyan and Yeo, Si Yong and Xu, Yanwu},
   journal={MICCAI2025},
-  year={2024},
+  year={2025},
   url={https://github.com/diaoyq121/PPAL}
 }
 ```
