@@ -212,7 +212,7 @@ If you find this work helpful, please cite our paper:
 @article{diao2024ppal,
   title={Prior-guided Prototype Aggregation Learning for Alzheimer's Disease Diagnosis},
   author={Diao, Yueqin and Fang, Huihui and Yu, Hanyi and Wang, Yuning and Tao, Yaling and Huang, Ziyan and Yeo, Si Yong and Xu, Yanwu},
-  journal={arXiv preprint arXiv:2407.02418},
+  journal={MICCAI2025},
   year={2024},
   url={https://github.com/diaoyq121/PPAL}
 }
